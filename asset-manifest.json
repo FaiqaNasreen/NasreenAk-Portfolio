@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NasreenAk-Portfolio/static/css/main.bab0b925.chunk.css",
+    "main.js": "/NasreenAk-Portfolio/static/js/main.5d999ee0.chunk.js",
+    "main.js.map": "/NasreenAk-Portfolio/static/js/main.5d999ee0.chunk.js.map",
+    "runtime-main.js": "/NasreenAk-Portfolio/static/js/runtime-main.4f691d12.js",
+    "runtime-main.js.map": "/NasreenAk-Portfolio/static/js/runtime-main.4f691d12.js.map",
+    "static/js/2.2219f949.chunk.js": "/NasreenAk-Portfolio/static/js/2.2219f949.chunk.js",
+    "static/js/2.2219f949.chunk.js.map": "/NasreenAk-Portfolio/static/js/2.2219f949.chunk.js.map",
+    "static/js/3.9cc0cc59.chunk.js": "/NasreenAk-Portfolio/static/js/3.9cc0cc59.chunk.js",
+    "static/js/3.9cc0cc59.chunk.js.map": "/NasreenAk-Portfolio/static/js/3.9cc0cc59.chunk.js.map",
+    "index.html": "/NasreenAk-Portfolio/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/NasreenAk-Portfolio/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.2219f949.chunk.js.LICENSE.txt": "/NasreenAk-Portfolio/static/js/2.2219f949.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f691d12.js",
+    "static/js/2.2219f949.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.5d999ee0.chunk.js"
+  ]
+}
